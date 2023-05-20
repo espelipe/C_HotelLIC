@@ -15,4 +15,4 @@ Projeto realizado no primeiro semestre do cusro de Ciencia da Computação na PU
 - Felipe Casagrande Espel
 - Andre Cavalcanti
 
-[https://www.linkedin.com/in/](https://www.linkedin.com/in/joaomarcosribeirete/)
+[https://www.linkedin.com/in/joaomarcosribeirete](https://www.linkedin.com/in/joaomarcosribeirete/)
